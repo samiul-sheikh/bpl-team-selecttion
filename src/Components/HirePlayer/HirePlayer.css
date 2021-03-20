@@ -1,0 +1,12 @@
+.hire-player{
+    width: 400px;
+    margin-left: 50px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 10px;
+}
+.budget{
+    padding-top: 10px;
+    border-top: 2px solid dimgray;
+}

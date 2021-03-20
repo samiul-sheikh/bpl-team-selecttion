@@ -1,0 +1,10 @@
+.header img{
+    height: 100px;
+}
+.header{
+    text-align: center;
+}
+.title{
+    line-height: 50px;
+    background-color:aquamarine;
+}

@@ -1,0 +1,128 @@
+[
+    {
+        "id": 75,
+        "name": "Sakib Al Hasan",
+        "role": "All-rounder",
+        "born": "24/03/1987",
+        "country": "Bangladesh",
+        "salary": 300000,
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170912/shakib-al-hasan.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Mashrafe Mortaza",
+        "role": "Bowler",
+        "born": "05/10/1983",
+        "country": "Bangladesh",
+        "salary": 270000,
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170920/mashrafe-mortaza.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Mushfiqur Rahim",
+        "role": "Wicket-keeper, Batsman",
+        "born": "09/05/1987",
+        "country": "Bangladesh",
+        "salary": 250000,
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Tamim Iqbal Khan",
+        "role": "Opening batsman",
+        "born": "20/03/1989",
+        "country": "Bangladesh",
+        "salary": 250000,
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg"
+    },
+    {
+        "id": 90,
+        "name": "Mustafizur Rahman",
+        "role": "Bowler",
+        "born": "06/09/1995",
+        "country": "Bangladesh",
+        "salary": 260000,
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170925/mustafizur-rahman.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Liton Kumar Das",
+        "role": "Wicketkeeper",
+        "born": "16/02/1994",
+        "country": "Bangladesh",
+        "salary": 150000,
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170914/liton-das.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Mahmudullah Riyad",
+        "role": "Batting, All-rounder",
+        "born": "04/02/1986",
+        "country": "Bangladesh",
+        "salary": 230000,
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170905/mahmudullah.jpg"
+    },
+    {
+        "id": 59,
+        "name": "Soumya Sarkar",
+        "role": "Batting, All-rounder",
+        "born": "25/02/1993",
+        "country": "Bangladesh",
+        "salary": 180000,
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170900/soumya-sarkar.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Mohammad Rubel Hossain",
+        "role": "Bowler",
+        "born": "01/01/1990",
+        "country": "Bangladesh",
+        "salary": 240000,
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170922/rubel-hossain.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Mohammad Sabbir Rahman",
+        "role": "Batting, All-rounder",
+        "born": "22/11/1991",
+        "country": "Bangladesh",
+        "salary": 160000,
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170903/sabbir-rahman.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Abu Jayed Chowdhury Rahi",
+        "role": "Bowling",
+        "born": "02/08/1993",
+        "country": "Bangladesh",
+        "salary": 120000,
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170927/abu-jayed.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Mosaddek Hossain Saikat",
+        "role": "Batting, All-rounder",
+        "born": "10/12/1995",
+        "country": "Bangladesh",
+        "salary": 180000,
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170909/mosaddek-hossain.jpg"
+    },
+    {
+        "id": 74,
+        "name": "Mohammad Saifuddin",
+        "role": "Bowling, All-rounder",
+        "born": "01/11/1996",
+        "country": "Bangladesh",
+        "salary": 160000,
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170907/mohammad-saifuddin.jpg"
+    },
+    {
+        "id": 57,
+        "name": "Mehidy Hasan Miraz",
+        "role": "Bowling, All-rounder",
+        "born": "25/10/1997",
+        "country": "Bangladesh",
+        "salary": 200000,
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148289/mehidy-hasan.jpg"
+    }
+]

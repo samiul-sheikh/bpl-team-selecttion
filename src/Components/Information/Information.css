@@ -1,0 +1,11 @@
+.information-container{
+    display: flex;
+    margin: 20px;
+}
+.player-container{
+    width: 60%;
+    margin-left: 80px;
+    padding: 20px;
+    box-shadow: 5px 5px 50px gray ;
+    border-radius: 10px;
+}
